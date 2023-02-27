@@ -1,0 +1,28 @@
+#cultivator {
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: -15px;
+    margin-top: -15px;
+    border-radius: 50%;
+  }
+  
+  .enemy {
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+  }
+
+  .cultivatorHPBar {
+    background-color: green;
+    width: 30px;
+    height: 5px;
+    position: absolute;
+    top: -5px;
+    left: 0px;
+  }
